@@ -6309,8 +6309,8 @@ Camera:
   m_GameObject: {fileID: 1530880650}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -6503,7 +6503,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "- Menu Music -\nAnonymous\n\n- Forest Hub & Main Route Music -\nMadeline
-    Butler\n\n- 2d & 3d Art - \nGenesis Pluas\n\n- Additional 3d Art -\nJeremy Ross"
+    Butler\n\n- 2d & 3d Art - \nGenesis Pluas\n\n- Additional 3d Art & Animation
+    -\nJeremy Ross"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e84bc491feed47444a2089ae9ce206c5, type: 2}
   m_sharedMaterial: {fileID: 1352716343963974636, guid: e84bc491feed47444a2089ae9ce206c5, type: 2}
